@@ -44,7 +44,7 @@
     }
     //calculation part
         
-    if (!$error)
+    if (!$error)//bading
     {
         $result = 0;
         switch ($operator){
