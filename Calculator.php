@@ -29,7 +29,7 @@
         $num2 = filter_input(INPUT_POST, "num2", FILTER_SANITIZE_NUMBER_FLOAT);
         $operator = htmlspecialchars($_POST ["operator"]);
     }
-    //g
+    //gg
     // error handlers
     $error = false;
     
